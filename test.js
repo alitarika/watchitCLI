@@ -1,4 +1,4 @@
-console.log("hi there");
+console.log("Hello there");
 
 setTimeout(() => {
     console.log("General Kenobi")
